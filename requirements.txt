@@ -1,4 +1,5 @@
 pip
+glibc
 numpy
 #Pillow>=1.0
 #Pillow
